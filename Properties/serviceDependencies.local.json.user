@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-03-11T11:31:55.6728254Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2024-03-11T11:32:10.7278166Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-group-rg2"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7ea259f7-c666-4703-b4c1-df983f852504"
+    }
+  }
+}
