@@ -1,1 +1,1 @@
-# CosmosDbApp
+# Azure CosmosDB Demo App
